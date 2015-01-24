@@ -1,19 +1,18 @@
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
 
-REDISTRIBUTION and use in source and BINARY forms, with or without MODIFICATION,
+Distribution and use in source and BINARY forms, with or without MODIFICATION,
 are permitted provided that the following conditions are met:
 
-1. REDISTRIBUTIONS of source code must retain the above COPYRIGHT notice, this
+1. Distribution of source code must retain the above COPYRIGHT notice, this
 list of conditions and the following DISCLAIMER.
 
-2. REDISTRIBUTIONS in BINARY form must reproduce the above COPYRIGHT notice,
+2. Distribution in BINARY form must reproduce the above COPYRIGHT notice,
 this list of conditions and the following DISCLAIMER in the DOCUMENTATION and/or
 other materials provided with the distribution.
 
-3. The name of the author or authors may not be used to ENDORSE or PROMOTE
-PRODUCTS derived from this software without
-specific prior written permission.
+3. The name of the author or authors may not be used to recommend or advertise
+works derived from this software without specific prior written permission.
 
 This software is provided by the autho or authors "as is" and
 any express or implied WARRANTIES, including, but not limited to, the implied

@@ -14,7 +14,7 @@ other materials provided with the distribution.
 3. The name of the author or authors may not be used to recommend or advertise
 works derived from this software without specific prior written permission.
 
-This software is provided by the autho or authors "as is" and
+This software is provided by the author or authors "as is" and
 any express or implied WARRANTIES, including, but not limited to, the implied
 WARRANTIES of MERCHANTABILITY and FITNESS for a particular purpose are
 DISCLAIMED. In no event shall the author or authors be LIABLE for

@@ -11,14 +11,14 @@ list of conditions and the following DISCLAIMER.
 this list of conditions and the following DISCLAIMER in the DOCUMENTATION and/or
 other materials provided with the distribution.
 
-3. Neither the name of the COPYRIGHT HOLDER nor the names of its CONTRIBUTORS 
-may be used to ENDORSE or PROMOTE PRODUCTS derived from this software without
+3. The name of the author or authors may not be used to ENDORSE or PROMOTE
+PRODUCTS derived from this software without
 specific prior written permission.
 
-This software is provided by the COPYRIGHT HOLDERS and CONTRIBUTORS "as is" and
+This software is provided by the autho or authors "as is" and
 any express or implied WARRANTIES, including, but not limited to, the implied
 WARRANTIES of MERCHANTABILITY and FITNESS for a particular purpose are
-DISCLAIMED. In no event shall the COPYRIGHT HOLDER or CONTRIBUTORS be LIABLE for
+DISCLAIMED. In no event shall the author or authors be LIABLE for
 any direct, indirect, incidental, special, exemplary, or CONSEQUENTIAL damages
 (including, but not limited to, PROCUREMENT of substitute goods or services;
 loss of use, data, or profits; or business interruption) however caused and on

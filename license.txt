@@ -14,13 +14,12 @@ and/or other materials provided with the distribution.
 3. The name of the author or authors may not be used to recommend or advertise
 works derived from this software without specific prior written permission.
 
-This software is provided by the author or authors "as is" and
-any express or implied promises, including, but not limited to, the implied
-promises of MERCHANTABILITY and FITNESS for a particular purpose are
-refused. In no event shall the author or authors be responsible for
-any direct, indirect, incidental, special, exemplary, or CONSEQUENTIAL damages
-(including, but not limited to, PROCUREMENT of substitute goods or services;
+This software is provided by the author or authors "as is" and any express or
+implied promises, including, but not limited to, the implied promises of fit for
+sale or for a particular purpose are refused. In no event shall the author or
+authors be responsible for any direct, indirect, incidental, special, or other
+damages (including, but not limited to, acquring substitute goods or services;
 loss of use, data, or profits; or business interruption) however caused and on
 any theory of responsibility, whether in contract, strict responsibility, or
-TORT (including NEGLIGENCE or otherwise) arising in any way out of the use of
-this software, even if advised of the possibility of such damage.
+civil (including failure of care or otherwise) arising in any way out of the use
+of this software, even if advised of the possibility of such damage.

@@ -1,8 +1,8 @@
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
 
-Distribution and use in source and BINARY forms, with or without MODIFICATION,
-are permitted provided that the following conditions are met:
+Distribution and use in source and BINARY forms, with or without changes, are
+permitted provided that the following conditions are met:
 
 1. Distribution of source code must retain the above COPYRIGHT notice, this
 list of conditions and the following DISCLAIMER.

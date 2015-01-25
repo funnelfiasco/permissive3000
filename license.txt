@@ -8,8 +8,8 @@ permitted provided that the following conditions are met:
 list of conditions and the following refusal of responsibility.
 
 2. Distribution in object form must reproduce the above copyright notice,
-this list of conditions and the following refusal of responsibility in documents
-and/or other materials provided with the distribution.
+this list of conditions and the following refusal of responsibility in
+documents and/or other materials provided with the distribution.
 
 3. The name of the author or authors may not be used to recommend or advertise
 works derived from this software without specific prior written permission.

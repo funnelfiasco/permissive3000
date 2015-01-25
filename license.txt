@@ -1,13 +1,13 @@
 Copyright (c) <YEAR>, <OWNER>
 All rights reserved.
 
-Distribution and use in source and BINARY forms, with or without changes, are
+Distribution and use in source and object forms, with or without changes, are
 permitted provided that the following conditions are met:
 
 1. Distribution of source code must retain the above copyright notice, this
 list of conditions and the following DISCLAIMER.
 
-2. Distribution in BINARY form must reproduce the above copyright notice,
+2. Distribution in object form must reproduce the above copyright notice,
 this list of conditions and the following DISCLAIMER in the DOCUMENTATION and/or
 other materials provided with the distribution.
 

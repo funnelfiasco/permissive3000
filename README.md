@@ -36,3 +36,9 @@ The BSD 3-Clause License, from which Permissive 3000 is derived, is the work of
 the Regents of the University of California.
 
 This work was inspired by [Maxthon Chan](https://en.maxchan.info/).
+
+### Contributors
+
+This work has been greatly aided by contributions from:
+
+* Engel Nyst

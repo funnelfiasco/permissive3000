@@ -15,8 +15,8 @@ documents and/or other materials provided with the distribution.
 works derived from this software without specific prior written permission.
 
 This software is provided by the author or authors "as is" and any express or
-implied promises, including, but not limited to, the implied promises of fit for
-sale or for a particular purpose are refused. In no event shall the author or
+implied guarantees, including, but not limited to, the implied guarantees of fit
+for sale or for a particular purpose are refused. In no event shall the author or
 authors be responsible for any direct, indirect, incidental, special, or other
 damages (including, but not limited to, acquring substitute goods or services;
 loss of use, data, or profits; or business interruption) however caused and on
